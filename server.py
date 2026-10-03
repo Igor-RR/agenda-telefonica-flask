@@ -23,7 +23,7 @@ HTML_TEMPLATE = """
     </style>
 </head>
 <body>
-    <h1>Gerenciador de Contatos (Monolítico)</h1>
+    <h1>Agênda telefônica</h1>
     
     <form action="/adicionar" method="POST">
         <input type="text" name="nome" placeholder="Nome do contato..." required>
